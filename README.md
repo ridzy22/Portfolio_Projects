@@ -11,7 +11,7 @@ Severity is a number between 1 and 4, where 1 indicates the least impact on traf
 ## About the dataset:
 This is a countrywide car accident dataset that covers 49 states of the USA. The accident data were collected from February 2016 to December 2020, using multiple APIs that provide streaming traffic incident (or event) data. These APIs broadcast traffic data captured by various entities, including the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road networks. The dataset currently contains approximately 1+ million accident records. For more information about this dataset, please visit https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents.
 
-I could not upload the data file in this GitHub repo because of its size. One can have access to the dataset via the above-mentioned kaggle link.
+I could not upload the data file in this GitHub repo because of its size. One can have access to the dataset via the above-mentioned Kaggle link.
 
 ## Viewing of the notebook:
 Since GitHub does not support a lot of features of notebooks, such as interactive Plotly plots, I'd request the viewers to view/render this notebook at https://nbviewer.org/. nbviewer is the Jupyter community-provided solution for viewing and sharing notbebooks' 'static' form. A lot of javascript-based features, like Plotly plots, work in nbviewer's renderings.
