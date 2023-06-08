@@ -32,3 +32,6 @@ To understand Logistic Regression and Decision Trees and explore these algorthim
 3. Which segment of customers should be targeted more
 4. Does age have any impact on the customer borrowing a loan or not
 5. Do people with less income borrow loans
+
+## Kaggle Notebook followed:
+https://www.kaggle.com/code/yogidsba/personal-loan-logistic-regression-decision-tree
