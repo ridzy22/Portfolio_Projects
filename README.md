@@ -33,5 +33,8 @@ To understand Logistic Regression and Decision Trees and explore these algorthim
 4. Does age have any impact on the customer borrowing a loan or not
 5. Do people with less income borrow loans
 
+## Viewing of the notebook:
+Since GitHub does not support a lot of features of notebooks, such as interactive Plotly plots, I'd request the viewers to view/render this notebook at https://nbviewer.org/. nbviewer is the Jupyter community-provided solution for viewing and sharing notbebooks' 'static' form. A lot of javascript-based features, like Plotly plots, work in nbviewer's renderings.
+
 ## Kaggle Notebook followed:
 https://www.kaggle.com/code/yogidsba/personal-loan-logistic-regression-decision-tree
